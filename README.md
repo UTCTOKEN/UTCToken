@@ -16,6 +16,35 @@ Joining UTC token would bring you benefits from profits of trading forex & crypt
 
 UTC money is not an ICO or investment platform but simply buy and hold strategy which can bring on huge profits in coming month so come join UTC token at www.utc.money
 
+### Follow the links below to get more info:
+- [https://utc.money/]
+
+- [https://twitter.com/info_utc]
+- [https://facebook.com/UTC_Service/]
+- [https://www.instagram.com/info.utctoken/]
+- [https://www.youtube.com/channel/UCQ4yQAoEVtJuRfhKyoy_DDQ]
+- 
+  ## Watch on Youtube click on this Logo 
+  
+  [![Watch the video](https://www.mplusfx.com/images/Flutter_.png)](https://www.youtube.com/watch?v=Mbalg0Ua-V0)
+
+- [https://t.me/utcannoucement]
+
+- [https://medium.com/@UTCTOKEN]
+
+
+in this paragraph «List of CMC-supported exchanges»
+provide a link to a pair
+
+https://coinsbit.io/trade_classic/UTC_USDT
+
+
+Contract address 0x52171FFA4ceDa60ff9795e1F111adB14c3d7025e
+
+## Whitpaper
+
+https://utc.money/utcwhitepaper.pdf
+
 
 ## INDEX
 
