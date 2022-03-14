@@ -31,6 +31,7 @@ UTC money is not an ICO or investment platform but simply buy and hold strategy 
 - [https://t.me/utcannoucement]
 
 - [https://medium.com/@UTCTOKEN]
+- https://www.coingecko.com/en/coins/unitech
 
 
 in this paragraph «List of CMC-supported exchanges»
