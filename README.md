@@ -32,7 +32,7 @@ UTC money is not an ICO or investment platform but simply buy and hold strategy 
 
 - [https://medium.com/@UTCTOKEN]
 - https://www.coingecko.com/en/coins/unitech
-
+Now UTC token live on fisrt hardware wallet on Binace , safepal wallet. 
 
 in this paragraph «List of CMC-supported exchanges»
 provide a link to a pair
