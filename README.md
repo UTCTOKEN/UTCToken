@@ -46,7 +46,7 @@ https://coinsbit.io/trade_classic/UTC_USDT
 
 https://utc.money/utcwhitepaper.pdf
 
-
+New exchange update
 ## INDEX
 
  - About Us
